@@ -1,0 +1,8 @@
+| Component        | Library/Tool          |
+|------------------|------------------------|
+| Data Handling    | `pandas`, `nltk`       |
+| Modeling         | `TensorFlow`, `transformers` |
+| Augmentation     | EDA (Easy Data Augmentation) |
+| Evaluation       | `sklearn.metrics`      |
+| Deployment       | `Streamlit`            |
+| Additional Models| LLaMA Guard, BLIP      |
